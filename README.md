@@ -38,3 +38,11 @@ Para activar el **Panel de Auditoría del Administrador** en el entorno de desar
 2. Modifica la variable del entorno en el interceptor del login (Línea **24** o **101**) para forzar el correo corporativo del administrador:
    ```kotlin
    correoUsuarioActivo = "thebestonegift1@gmail.com"
+## Capturas:
+
+**Login:**
+<img width="339" height="536" alt="image" src="https://github.com/user-attachments/assets/a53ac3f0-698b-4bdd-a71d-296bad113cbc" />
+**Modo usuario:**
+<img width="338" height="597" alt="image" src="https://github.com/user-attachments/assets/2742609a-a5db-479d-a9fa-33849e807a3a" />
+**Modo admin:**
+<img width="347" height="575" alt="image" src="https://github.com/user-attachments/assets/d872d722-db1f-437b-9c91-53df4a2c97bf" />
